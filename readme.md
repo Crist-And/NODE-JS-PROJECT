@@ -2,7 +2,7 @@
 
 Este es un **cliente de línea de comandos (CLI)** simple escrito en Node.js que permite interactuar con la **Fake Store API** para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre la colección de productos.
 
-El script traduce los comandos de tu terminal en peticiones HTTP (GET, POST, PUT, DELETE) para gestionar los datos.
+El script traduce los comandos de la terminal en peticiones HTTP (GET, POST, PUT, DELETE) para gestionar los datos.
 
 ##  Comandos de Uso
 
